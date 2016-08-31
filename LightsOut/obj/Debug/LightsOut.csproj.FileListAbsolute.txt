@@ -1,0 +1,10 @@
+G:\Projects\LightsOut\bin\Debug\LightsOut.exe.config
+G:\Projects\LightsOut\bin\Debug\LightsOut.exe
+G:\Projects\LightsOut\bin\Debug\LightsOut.pdb
+G:\Projects\LightsOut\obj\Debug\LightsOut.csprojResolveAssemblyReference.cache
+G:\Projects\LightsOut\obj\Debug\LightsOut.Properties.Resources.resources
+G:\Projects\LightsOut\obj\Debug\LightsOut.csproj.GenerateResource.Cache
+G:\Projects\LightsOut\obj\Debug\LightsOut.exe
+G:\Projects\LightsOut\obj\Debug\LightsOut.pdb
+G:\Projects\LightsOut\obj\Debug\LightsOut.MainForm.resources
+G:\Projects\LightsOut\obj\Debug\LightsOut.AboutForms.resources
